@@ -1,0 +1,17 @@
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\obj\Debug\net8.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\obj\Debug\net8.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\obj\Debug\net8.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\obj\Debug\net8.0\Aplicacion.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\obj\Debug\net8.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\bin\Debug\net8.0\Aplicacion.deps.json
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\bin\Debug\net8.0\Aplicacion.dll
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\bin\Debug\net8.0\Aplicacion.pdb
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\bin\Debug\net8.0\Dominio.dll
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\bin\Debug\net8.0\Persistencia.dll
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\bin\Debug\net8.0\Dominio.pdb
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\bin\Debug\net8.0\Persistencia.pdb
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\obj\Debug\net8.0\Aplicacion.csproj.Up2Date
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\obj\Debug\net8.0\Aplicacion.dll
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\obj\Debug\net8.0\refint\Aplicacion.dll
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\obj\Debug\net8.0\Aplicacion.pdb
+C:\Users\pc\OneDrive\Escritorio\ProyectoCore_Curso\Aplicacion\obj\Debug\net8.0\ref\Aplicacion.dll

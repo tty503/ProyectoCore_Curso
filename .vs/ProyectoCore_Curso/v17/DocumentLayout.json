@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{940A20B3-B8AB-40ED-BDC9-25AC8EA7092B}|Aplicacion\\Aplicacion.csproj|c:\\users\\pc\\onedrive\\escritorio\\proyectocore_curso\\aplicacion\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940A20B3-B8AB-40ED-BDC9-25AC8EA7092B}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DC2B81-1086-40C0-AA2A-B5F5F5336CCE}|Seguridad\\Seguridad.csproj|c:\\users\\pc\\onedrive\\escritorio\\proyectocore_curso\\seguridad\\tokenseguridad\\jwtgenerador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DC2B81-1086-40C0-AA2A-B5F5F5336CCE}|Seguridad\\Seguridad.csproj|solutionrelative:seguridad\\tokenseguridad\\jwtgenerador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940A20B3-B8AB-40ED-BDC9-25AC8EA7092B}|Aplicacion\\Aplicacion.csproj|c:\\users\\pc\\onedrive\\escritorio\\proyectocore_curso\\aplicacion\\seguridad\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940A20B3-B8AB-40ED-BDC9-25AC8EA7092B}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\seguridad\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940A20B3-B8AB-40ED-BDC9-25AC8EA7092B}|Aplicacion\\Aplicacion.csproj|c:\\users\\pc\\onedrive\\escritorio\\proyectocore_curso\\aplicacion\\seguridad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940A20B3-B8AB-40ED-BDC9-25AC8EA7092B}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\seguridad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940A20B3-B8AB-40ED-BDC9-25AC8EA7092B}|Aplicacion\\Aplicacion.csproj|c:\\users\\pc\\onedrive\\escritorio\\proyectocore_curso\\aplicacion\\handlererror\\handlerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940A20B3-B8AB-40ED-BDC9-25AC8EA7092B}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\handlererror\\handlerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DC2B81-1086-40C0-AA2A-B5F5F5336CCE}|Seguridad\\Seguridad.csproj|c:\\users\\pc\\onedrive\\escritorio\\proyectocore_curso\\seguridad\\tokenseguridad\\usuariosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DC2B81-1086-40C0-AA2A-B5F5F5336CCE}|Seguridad\\Seguridad.csproj|solutionrelative:seguridad\\tokenseguridad\\usuariosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940A20B3-B8AB-40ED-BDC9-25AC8EA7092B}|Aplicacion\\Aplicacion.csproj|c:\\users\\pc\\onedrive\\escritorio\\proyectocore_curso\\aplicacion\\contratos\\iusuariosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940A20B3-B8AB-40ED-BDC9-25AC8EA7092B}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\contratos\\iusuariosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB4F947-B504-4BD0-8EC0-14C97749F9EC}|Persistencia\\Persistencia.csproj|c:\\users\\pc\\onedrive\\escritorio\\proyectocore_curso\\persistencia\\dataprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4F947-B504-4BD0-8EC0-14C97749F9EC}|Persistencia\\Persistencia.csproj|solutionrelative:persistencia\\dataprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C684DBD-BFC3-4126-A60B-CDEA250B9DBA}|Dominio\\Dominio.csproj|c:\\users\\pc\\onedrive\\escritorio\\proyectocore_curso\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C684DBD-BFC3-4126-A60B-CDEA250B9DBA}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940A20B3-B8AB-40ED-BDC9-25AC8EA7092B}|Aplicacion\\Aplicacion.csproj|c:\\users\\pc\\onedrive\\escritorio\\proyectocore_curso\\aplicacion\\cursoapp\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940A20B3-B8AB-40ED-BDC9-25AC8EA7092B}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\cursoapp\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6113E7A-6DBA-4661-8126-07F32227E193}|WebAPI\\WebAPI.csproj|c:\\users\\pc\\onedrive\\escritorio\\proyectocore_curso\\webapi\\controllers\\mycontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6113E7A-6DBA-4661-8126-07F32227E193}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\mycontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6113E7A-6DBA-4661-8126-07F32227E193}|WebAPI\\WebAPI.csproj|c:\\users\\pc\\onedrive\\escritorio\\proyectocore_curso\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6113E7A-6DBA-4661-8126-07F32227E193}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6113E7A-6DBA-4661-8126-07F32227E193}|WebAPI\\WebAPI.csproj|c:\\users\\pc\\onedrive\\escritorio\\proyectocore_curso\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6113E7A-6DBA-4661-8126-07F32227E193}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Aplicacion\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Aplicacion\\MappingProfile.cs",
+              "RelativeToolTip": "Aplicacion\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:21:51.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtGenerador.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Seguridad\\TokenSeguridad\\JwtGenerador.cs",
+              "RelativeDocumentMoniker": "Seguridad\\TokenSeguridad\\JwtGenerador.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Seguridad\\TokenSeguridad\\JwtGenerador.cs",
+              "RelativeToolTip": "Seguridad\\TokenSeguridad\\JwtGenerador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:21:11.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registrar.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Aplicacion\\Seguridad\\Registrar.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Seguridad\\Registrar.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Aplicacion\\Seguridad\\Registrar.cs",
+              "RelativeToolTip": "Aplicacion\\Seguridad\\Registrar.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:55:13.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HandlerException.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Aplicacion\\HandlerError\\HandlerException.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\HandlerError\\HandlerException.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Aplicacion\\HandlerError\\HandlerException.cs",
+              "RelativeToolTip": "Aplicacion\\HandlerError\\HandlerException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:53:18.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Aplicacion\\Seguridad\\Login.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Seguridad\\Login.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Aplicacion\\Seguridad\\Login.cs",
+              "RelativeToolTip": "Aplicacion\\Seguridad\\Login.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwDQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:44:00.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUsuarioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Aplicacion\\Contratos\\IUsuarioSesion.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Contratos\\IUsuarioSesion.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Aplicacion\\Contratos\\IUsuarioSesion.cs",
+              "RelativeToolTip": "Aplicacion\\Contratos\\IUsuarioSesion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:40:23.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Seguridad\\TokenSeguridad\\UsuarioSesion.cs",
+              "RelativeDocumentMoniker": "Seguridad\\TokenSeguridad\\UsuarioSesion.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Seguridad\\TokenSeguridad\\UsuarioSesion.cs",
+              "RelativeToolTip": "Seguridad\\TokenSeguridad\\UsuarioSesion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:39:11.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\WebAPI\\Controllers\\MyControllerBase.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\MyControllerBase.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\WebAPI\\Controllers\\MyControllerBase.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\MyControllerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:25:59.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Aplicacion\\CursoApp\\Consulta.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\CursoApp\\Consulta.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Aplicacion\\CursoApp\\Consulta.cs",
+              "RelativeToolTip": "Aplicacion\\CursoApp\\Consulta.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:21:38.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T03:19:28.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAgwGIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:16:59.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Persistencia\\DataPrueba.cs",
+              "RelativeDocumentMoniker": "Persistencia\\DataPrueba.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Persistencia\\DataPrueba.cs",
+              "RelativeToolTip": "Persistencia\\DataPrueba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:16:14.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Dominio\\Usuario.cs",
+              "RelativeDocumentMoniker": "Dominio\\Usuario.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoCore_Curso\\Dominio\\Usuario.cs",
+              "RelativeToolTip": "Dominio\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T02:52:42.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
